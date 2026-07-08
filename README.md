@@ -33,7 +33,7 @@
 
 ### 🚀 Featured Projects
 
-<code>[Ola Data Analytics End-to-End Project](https://github.com/dipeshmaindolia)</code> 📊 — SQL, Excel & Power BI dashboards analyzing ride demand, revenue and cancellations
+<code>[Ola Data Analytics End-to-End Project](https://github.com/dipeshmaindolia001/Ola-Data-Analytics-End-to-End-Project)</code> 📊 — SQL, Excel & Power BI dashboards analyzing ride demand, revenue and cancellations
 
 <code>[YouTube Trending Data Pipeline on AWS](https://github.com/dipeshmaindolia)</code> ☁️ — Automated pipeline using S3, Lambda, Glue & Step Functions with Medallion Architecture
 
