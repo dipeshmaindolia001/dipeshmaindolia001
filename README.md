@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipesh Maindolia</h1>
-<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Excel • Python</h3>
+<h3 align="center">Machine Learning Engineer | GenAI • Python • SQL • AWS • Power BI</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dipeshmaindolia&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshmaindolia" />
@@ -20,10 +20,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 Pursuing **B.S. in Data Science and Applications** from **IIT Madras** (2023–Present)
-- 🎓 Pursuing **B.Tech in Information Technology** from **College of Technology, Pantnagar** (2022–2026)
-- 📊 Currently exploring roles as a **Data Analyst / Business Analyst / BI Analyst**
-- 🧪 Worked as a **Product Analyst Intern** at [Interviewkit.ai](https://interviewkit.ai), building REST APIs, recommendation engines and an AI-based interview Q&A system
-- 💼 Completed an **Analyst Fellowship at CrackNonTech**, sharpening SQL, Python and business case-solving skills
+- 🎓 **B.Tech in Information Technology** from **College of Technology, Pantnagar** (2022–2026)
+- 🤖 **Machine Learning Engineer** with hands-on experience building end-to-end ML and GenAI pipelines — from data ingestion and feature engineering to model deployment
+- 🧪 Worked as a **Product Analyst Intern** at [Interviewkit.ai](https://interviewkit.ai) (Apr–Jun 2026), building a REST API editor, a job recommendation module, and a resume-based interview Q&A generator
+- 💼 **Analyst Fellow at CrackNonTech** (May–Jun 2026), sharpening SQL, Python, guesstimates, and business case-solving skills
 - 🏆 Cleared **GATE CSE 2026** (94.3 percentile) and **GATE DA 2025** (86 percentile)
 - 🎥 Founder of **[Pantnagar Pathshala](https://www.youtube.com/@dipeshmaindolia)** — 1000+ subscribers
 - 📈 Building **[Burnout Batch](https://www.youtube.com/@burnoutbatch)** — a YouTube channel on consulting case-study walkthroughs
@@ -33,11 +33,13 @@
 
 ### 🚀 Featured Projects
 
+<code>[Flight Price Prediction using AWS SageMaker](https://github.com/dipeshmaindolia)</code> ✈️ — End-to-end ML pipeline (XGBoost, Bayesian hyperparameter tuning) with a Streamlit app deployed on Streamlit Cloud
+
+<code>[LinkedIn Post Generator (GenAI — Llama 3.2)](https://github.com/dipeshmaindolia)</code> ✍️ — Two-stage GenAI pipeline using LangChain + Groq API with few-shot prompting to generate on-brand LinkedIn posts
+
+<code>[YouTube Trending Data Pipeline on AWS](https://github.com/dipeshmaindolia)</code> ☁️ — Automated pipeline using S3, Lambda, Glue & Step Functions with Medallion Architecture and pipeline monitoring
+
 <code>[Ola Data Analytics End-to-End Project](https://github.com/dipeshmaindolia001/Ola-Data-Analytics-End-to-End-Project)</code> 📊 — SQL, Excel & Power BI dashboards analyzing ride demand, revenue and cancellations
-
-<code>[YouTube Trending Data Pipeline on AWS](https://github.com/dipeshmaindolia)</code> ☁️ — Automated pipeline using S3, Lambda, Glue & Step Functions with Medallion Architecture
-
-<code>[Flight Price Prediction using AWS SageMaker](https://github.com/dipeshmaindolia)</code> ✈️ — End-to-end ML pipeline with XGBoost, Bayesian hyperparameter tuning & Streamlit deployment
 
 ---
 
@@ -53,7 +55,7 @@
 
 - 2nd Position — Shutterbug Short Film Competition
 - 100/100 in Mathematics — Class X Boards
-- Led Convocation Digital Card Team — eliminated paper workflows, contributing to ₹1.5 lakh in cost savings via a QR-based digital check-in system
+- Led Convocation Digital Card Team — eliminated paper workflows, contributing ₹1.5 lakh in cost savings via a QR-based digital check-in and audit-log system
 - Freelance video editing & thumbnail design for multiple YouTube creators and branding clients
 
 ---
@@ -70,6 +72,8 @@
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+<a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/langchain-icon.svg" alt="langchain" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.tableau.com/" target="_blank"><img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
 </p>
