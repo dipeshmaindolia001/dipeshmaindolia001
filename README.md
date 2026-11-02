@@ -33,11 +33,11 @@
 
 ### 🚀 Featured Projects
 
-<code>[Flight Price Prediction using AWS SageMaker](https://github.com/dipeshmaindolia)</code> ✈️ — End-to-end ML pipeline (XGBoost, Bayesian hyperparameter tuning) with a Streamlit app deployed on Streamlit Cloud
+<code>[Flight Price Prediction using AWS SageMaker](https://github.com/dipeshmaindolia001)</code> ✈️ — End-to-end ML pipeline (XGBoost, Bayesian hyperparameter tuning) with a Streamlit app deployed on Streamlit Cloud
 
-<code>[LinkedIn Post Generator (GenAI — Llama 3.2)](https://github.com/dipeshmaindolia)</code> ✍️ — Two-stage GenAI pipeline using LangChain + Groq API with few-shot prompting to generate on-brand LinkedIn posts
+<code>[LinkedIn Post Generator (GenAI — Llama 3.2)](https://github.com/dipeshmaindolia001)</code> ✍️ — Two-stage GenAI pipeline using LangChain + Groq API with few-shot prompting to generate on-brand LinkedIn posts
 
-<code>[YouTube Trending Data Pipeline on AWS](https://github.com/dipeshmaindolia)</code> ☁️ — Automated pipeline using S3, Lambda, Glue & Step Functions with Medallion Architecture and pipeline monitoring
+<code>[YouTube Trending Data Pipeline on AWS](https://github.com/dipeshmaindolia001)</code> ☁️ — Automated pipeline using S3, Lambda, Glue & Step Functions with Medallion Architecture and pipeline monitoring
 
 <code>[Ola Data Analytics End-to-End Project](https://github.com/dipeshmaindolia001/Ola-Data-Analytics-End-to-End-Project)</code> 📊 — SQL, Excel & Power BI dashboards analyzing ride demand, revenue and cancellations
 
@@ -82,8 +82,8 @@
 
 ### 📊 GitHub Stats
 
-[![Dipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipeshmaindolia&show_icons=true)](https://github.com/dipeshmaindolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshmaindolia&layout=compact)](https://github.com/dipeshmaindolia)
+[![Dipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipeshmaindolia&show_icons=true)](https://github.com/dipeshmaindolia001)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshmaindolia&layout=compact)](https://github.com/dipeshmaindolia001)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dipeshmaindolia&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshmaindolia" />
